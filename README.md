@@ -1,4 +1,4 @@
-# DataLiteracy
+# Accuracy in Precipitation Prediction
 
 This repository contains the tools and pipeline for data analysis to investigate the performance of weather-forecasts the German-Weather-Agency ([DWD](https://www.dwd.de/DE/Home/home_node.html)) is providing. 
 We collected forecasts from 36 stations across the state of Baden-Württemberg from the begging of December until the end of January. 
